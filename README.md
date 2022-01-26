@@ -3,3 +3,4 @@ This is the step by step of my Ansible installation in my personal infrastructur
 
 I am using Ubuntu Server and it's installed on VM Esxi machine.
 
+ 
